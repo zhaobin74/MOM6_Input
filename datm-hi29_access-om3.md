@@ -1,7 +1,6 @@
 |    | datm-hi29 | access-OM3 |
 | --- | ------------ | ------------ |
 | AH_VEL_SCALE | 0.02 | 0.01 |
-| ALE_COORDINATE_CONFIG | HYBRID:hycom1_75_800m.nc,sigma2,FNC1:2,4000,4.5,.01 | FILE:ocean_vgrid.nc,interfaces=zeta |
 | ALLOW_GLC_RUNOFF_DIAGNOSTICS | * | False |
 | APPLY_INTERFACE_FILTER | True | False |
 | APPROX_NET_MASS_SRC | False | * |
@@ -18,7 +17,6 @@
 | CHANNEL_CONFIG | list | none |
 | CHANNEL_LIST_360_LON_CHECK | True | * |
 | CHANNEL_LIST_FILE | MOM_channels_global_025 | * |
-| CHL_FILE | seawifs-clim-1997-2010.1440x1080.v20180328.nc | chl_globcolour_monthly_clim.nc |
 | CHL_VARNAME | chlor_a | CHL |
 | CHOROPHYLL_POWER_MANIZZA | * | 0.674, 0.629, 0.0 |
 | COORD_CONFIG | file | none |
