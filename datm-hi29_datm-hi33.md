@@ -42,7 +42,7 @@
 | USE_CR_GRID | False | * |
 | USE_HUYNH_STENCIL_BUG | True | False |
 | USE_MLD_GRID | False | * |
-| **USE_NEUTRAL_DIFFUSIONi** | **False** | **True** |
+| **USE_NEUTRAL_DIFFUSION** | **False** | **True** |
 | USE_RIGID_SEA_ICE | True | False |
 | USE_STANLEY_ML | * | False |
 | USE_STANLEY_TVAR | False | * |
