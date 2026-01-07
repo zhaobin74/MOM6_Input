@@ -15,8 +15,8 @@
 | KH_ETA_CONST | 20.0 | 0.0 |
 | KH_VEL_SCALE | 0.00286 | 0.01 |
 | KV_RESTRAT | * | 0.0 |
-| MEKE_KHTH_FAC | 0.0 | 0.5 |
-| MEKE_KHTR_FAC | 0.0 | 0.5 |
+| **MEKE_KHTH_FAC** | **0.0** | **0.5** |
+| **MEKE_KHTR_FAC** | **0.0** | **0.5** |
 | MEKE_VISCOSITY_COEFF_KU | 0.0 | 1.0 |
 | MIN_WSTAR2 | 1.0E-24 | * |
 | MLD_DECAYING_TFILTER | 0.0 | * |
@@ -37,12 +37,12 @@
 | SEA_ICE_RIGID_MASS | 100.0 | * |
 | SEA_ICE_VISCOSITY | 1.0E+09 | * |
 | TAIL_DH | 0.0 | * |
-| THICKNESSDIFFUSE | False | True |
+| **THICKNESSDIFFUSE** | **False** | **True** |
 | USE_BODNER23 | True | False |
 | USE_CR_GRID | False | * |
 | USE_HUYNH_STENCIL_BUG | True | False |
 | USE_MLD_GRID | False | * |
-| USE_NEUTRAL_DIFFUSION | False | True |
+| **USE_NEUTRAL_DIFFUSIONi** | **False** | **True** |
 | USE_RIGID_SEA_ICE | True | False |
 | USE_STANLEY_ML | * | False |
 | USE_STANLEY_TVAR | False | * |
