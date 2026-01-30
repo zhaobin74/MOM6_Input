@@ -43,13 +43,13 @@ def compare(file1: str, file2: str):
     a = parse_file(file1)
     b = parse_file(file2)
     all_keys = sorted(set(a.keys()) | set(b.keys()))
-    print("| Key | File 1 Value | File 2 Value |")
-    print("| --- | ------------ | ------------ |")
+    print("| Key | File 1 Value | File 2 Value | Note |")
+    print("| --- | ------------ | ------------ | ---- |")
     for k in all_keys:
         val1 = a.get(k, "*")
         val2 = b.get(k, "*")
         if val1 != val2:
-            print(f"| {k} | {val1} | {val2} |")
+            print(f"| {k} | {val1} | {val2} |  |")
 
 
 def main(argv=None):
