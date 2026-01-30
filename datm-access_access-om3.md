@@ -1,6 +1,5 @@
-| Key | File 1 Value | File 2 Value | Note |
+|  | GEOS-access | ACCESS-OM3 | Note |
 | --- | ------------ | ------------ | ---- |
-| ALE_COORDINATE_CONFIG | HYBRID:hycom1_75_800m.nc,sigma2,FNC1:2,4000,4.5,.01 | FILE:ocean_vgrid.nc,interfaces=zeta | GEOS inherits OM4 |
 | ALLOW_GLC_RUNOFF_DIAGNOSTICS | * | False | N/A |
 | APPROX_NET_MASS_SRC | False | * | default=.false. |
 | BODNER_DETECT_MLD | * | False | N/A |
