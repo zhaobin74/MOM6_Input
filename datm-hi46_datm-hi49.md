@@ -1,4 +1,4 @@
-| Key | File 1 Value | File 2 Value | Note |
+|    | datm-hi46 | datm-hi49 | Note |
 | --- | ------------ | ------------ | ---- |
 | AH_VEL_SCALE | 0.02 | 0.01 |  |
 | APPLY_INTERFACE_FILTER | True | False |  |
